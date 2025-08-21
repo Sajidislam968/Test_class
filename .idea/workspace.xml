@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6690f0f1-200f-4c77-ab9d-66d4f2f03d0d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="6690f0f1-200f-4c77-ab9d-66d4f2f03d0d" name="Changes" comment="Stop tracking env and venv files&#10;And I add My name">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +52,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Merging main",
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
@@ -102,6 +100,20 @@
       <option name="presentableId" value="Default" />
       <updated>1755808741387</updated>
     </task>
+    <task id="LOCAL-00001" summary="Stop tracking env and venv files&#10;And I add My name">
+      <option name="closed" value="true" />
+      <created>1755811350513</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1755811350513</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Stop tracking env and venv files" />
+    <MESSAGE value="Stop tracking env and venv files&#10;And I add My name" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stop tracking env and venv files&#10;And I add My name" />
   </component>
 </project>
